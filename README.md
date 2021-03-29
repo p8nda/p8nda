@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student that spends my freetime devloping Java based applications for my own fun. I started devloping for the popular sweedish game Minecraft and slowly worked my way into coding plugins for the game. Ever since then I have enjoyed the idea of creating my own projects. I used my skills to establish wildblock a game focused coding team that takes on multiple projects.
+
 <!--
 **p8nda/p8nda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
