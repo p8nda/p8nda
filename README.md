@@ -9,6 +9,6 @@ I used my minimal Java skills to establish "wildblock" a game focused coding tea
 * My perferred language is Java. ☕
 * I'm currently working on a Java management plugin. 🛠️
 * EDM is my favorite music genre. 🎵
-* You can contact me using Telegram: t.me/kingpolar8 📫
+* You can contact me at: - 📫
 * I'm currently learning NodeJS. 🌱
 * Pandas are one of my favorite animals. 🐼
