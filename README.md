@@ -6,8 +6,8 @@ Using my minimal Java skills to establish "wildblock" a game focused coding team
 
 ### Some facts about me
 
-* My perferred language is Java. ☕
-* I'm currently working on a Java management plugin. 🛠️
-* EDM is my perferred music genre. 🎵
-* I'm currently learning NodeJS. 🌱
-* Panda's are my favorite animals. 🐼
+* ☕ My perferred language is Java.
+* 🛠️ I'm currently working on a Java management plugin.
+* 🎵 EDM is my perferred music genre.
+* 🌱 I'm currently learning NodeJS.
+* 🐼 Panda's are my favorite animals.
